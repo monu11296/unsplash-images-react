@@ -1,5 +1,13 @@
-## Unsplash API based React App
-# View, Save and Delete Images fetched from Unsplash API
+# Unsplash API based React App
+
+Used:
+React - Functional Components
+React - Hooks
+Axios - For API Calls
+Storejs - For saving user, image details
+
+
+## View, Save and Delete Images fetched from Unsplash API
 
 ## To Run the project locally
 
