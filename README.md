@@ -2,10 +2,11 @@
 
 ### Project Based on - 
 
- 1. React - Functional Components
- 2. React - Hooks
- 3. Axios - For API Calls
- 4. Storejs - For saving user, image details
+ 1. Typescript
+ 2. React - Functional Components
+ 3. React - Hooks
+ 4. Axios - For API Calls
+ 5. Storejs - For saving user, image details
 
 ### View, Save and Delete Images fetched from Unsplash API
 
