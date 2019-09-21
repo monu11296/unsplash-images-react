@@ -1,16 +1,17 @@
 # Unsplash API based React App
 
-Used:
-React - Functional Components
-React - Hooks
-Axios - For API Calls
-Storejs - For saving user, image details
+### Project Based on - 
 
+ 1. React - Functional Components
+ 2. React - Hooks
+ 3. Axios - For API Calls
+ 4. Storejs - For saving user, image details
 
-## View, Save and Delete Images fetched from Unsplash API
+### View, Save and Delete Images fetched from Unsplash API
 
-## To Run the project locally
+### To Run the project
 
     yarn install
     yarn start
+
 
